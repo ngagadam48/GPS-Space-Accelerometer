@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="Base.Theme.Accelerometer"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+
+    </style>
+
+    <style name="Theme.Accelerometer"
+        parent="Base.Theme.Accelerometer" />
+
+</resources>
